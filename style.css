@@ -1,3 +1,8 @@
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 .fact{
     background: #4567;
     padding: 2rem;
