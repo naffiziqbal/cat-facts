@@ -1,0 +1,36 @@
+.fact{
+    background: #4567;
+    padding: 2rem;
+    color: aliceblue;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+body{
+    text-align: center;
+}
+
+.btn{
+    padding: 1rem;
+    margin: 1rem;
+    color: whitesmoke;
+    border: none;
+    border-radius: 2rem;
+    font-size: 1rem;
+    background: #309430;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+    transition: .3s ease;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -ms-transition: .3s ease;
+    -o-transition: .3s ease;
+}
+
+.btn:hover{
+    background: rgb(2, 88, 2);
+}
